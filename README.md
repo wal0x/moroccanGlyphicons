@@ -4,6 +4,9 @@ A font containing 100% (or almost) moroccans Glyphicones.
 ##Available SVGs :
 mgBrad<br>
 mgFlag<br>
+mgFlag-o<br>
+mgMap<br>
+mgHercules<br>
 More and more coming soon
 
 <hr>
