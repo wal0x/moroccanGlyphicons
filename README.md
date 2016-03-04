@@ -7,6 +7,9 @@ mgFlag<br>
 mgFlag-o<br>
 mgMap<br>
 mgHercules<br>
+mgChicha<br>
+mg3arch<br>
+mgTajine-closed<br>
 More and more coming soon
 
 <hr>
