@@ -17,6 +17,11 @@ mg-kass-hot<br>
 mg-star<br>
 mg-stop<br>
 mg-wake<br>
+mg-7chich<br>
+mg-amazigh<br>
+mg-flag-amazigh<br>
+mg-flag-amazigh-o<br>
+mg-menara<br>
 More and more coming soon
 
 <hr>
